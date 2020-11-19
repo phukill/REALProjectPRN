@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_TourCore.749598630.00" t="ExcludeRecursive" />
+    <e p="D:\School\Fall-2020\PRN292\project\TourCore\TourCore\TourCore" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="TourCore" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Components" t="Include">
+          <e p="CountViewComponent.cs" t="Include" />
+          <e p="MenuViewComponent.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="AdminController.cs" t="Include" />
+          <e p="BookingTourController.cs" t="Include" />
+          <e p="ContractController.cs" t="Include" />
+          <e p="CustomerController.cs" t="Include" />
+          <e p="HomeController.cs" t="Include" />
+          <e p="TourController.cs" t="Include" />
+        </e>
+        <e p="Middlewares" t="Include">
+          <e p="SecurityMiddleware.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Commands" t="Include">
+            <e p="BookingTourCommand.cs" t="Include" />
+            <e p="Email.cs" t="Include" />
+            <e p="InsertTourCommand.cs" t="Include" />
+            <e p="StaffCommand.cs" t="Include" />
+          </e>
+          <e p="Db" t="Include">
+            <e p="Account.cs" t="Include" />
+            <e p="Contract.cs" t="Include" />
+            <e p="ContractDetail.cs" t="Include" />
+            <e p="Customer.cs" t="Include" />
+            <e p="Group.cs" t="Include" />
+            <e p="Member.cs" t="Include" />
+            <e p="Membership.cs" t="Include" />
+            <e p="Menu.cs" t="Include" />
+            <e p="Staff.cs" t="Include" />
+            <e p="Supplier.cs" t="Include" />
+            <e p="Tour.cs" t="Include" />
+            <e p="TourContext.cs" t="Include" />
+          </e>
+          <e p="ViewModels" t="Include">
+            <e p="ContractDetailViewModel.cs" t="Include" />
+            <e p="ContractViewModel.cs" t="Include" />
+            <e p="CustomerViewModel.cs" t="Include" />
+            <e p="MemberViewModel.cs" t="Include" />
+            <e p="MenuViewModel.cs" t="Include" />
+            <e p="StaffViewModel.cs" t="Include" />
+            <e p="TourViewModel.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TourCore.AssemblyInfo.cs" t="Include" />
+              <e p="TourCore.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="ScaffoldingReadMe.txt" t="Include" />
+        <e p="Services" t="Include">
+          <e p="BookingService.cs" t="Include" />
+          <e p="MemberService.cs" t="Include" />
+          <e p="QuantitySevice.cs" t="Include" />
+          <e p="SiteService.cs" t="Include" />
+          <e p="StaffService.cs" t="Include" />
+          <e p="TourService.cs" t="Include" />
+          <e p="TravelService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="TourCore.csproj" t="IncludeRecursive" />
+        <e p="Views" t="Include">
+          <e p="Admin" t="Include">
+            <e p="AddStaff.cshtml" t="Include" />
+            <e p="AllStaff.cshtml" t="Include" />
+            <e p="EditTour.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="InsertTour.cshtml" t="Include" />
+            <e p="Login.cshtml" t="Include" />
+            <e p="QuantitesPartial.cshtml" t="Include" />
+            <e p="QuantityMember.cshtml" t="Include" />
+            <e p="SeeContractDetail.cshtml" t="Include" />
+            <e p="ShowAllTour.cshtml" t="Include" />
+            <e p="Travel.cshtml" t="Include" />
+          </e>
+          <e p="BookingTour" t="Include">
+            <e p="BookingTour.cshtml" t="Include" />
+          </e>
+          <e p="Customer" t="Include">
+            <e p="Login.cshtml" t="Include" />
+            <e p="Register.cshtml" t="Include" />
+          </e>
+          <e p="Home" t="Include">
+            <e p="Admin.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="Login.cshtml" t="Include" />
+            <e p="News.cshtml" t="Include" />
+            <e p="Register.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="_LayoutAdmin.cshtml" t="Include" />
+            <e p="_LayoutTour.cshtml" t="Include" />
+            <e p="_LayoutTourDetail.cshtml" t="Include" />
+            <e p="Components" t="Include">
+              <e p="Count" t="Include">
+                <e p="Default.cshtml" t="Include" />
+              </e>
+              <e p="Menu" t="Include">
+                <e p="Default.cshtml" t="Include" />
+              </e>
+              <e p="Tour" t="Include">
+                <e p="Default.cshtml" t="Include" />
+              </e>
+            </e>
+            <e p="Error.cshtml" t="Include" />
+          </e>
+          <e p="Tour" t="Include">
+            <e p="Domestic.cshtml" t="Include" />
+            <e p="FindTour.cshtml" t="Include" />
+            <e p="FindTourPartial.cshtml" t="Include" />
+            <e p="National.cshtml" t="Include" />
+            <e p="TourDetail.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="wwwroot" t="Include">
+          <e p="Admin" t="Include">
+            <e p="css" t="Include">
+              <e p="bootstrap.css" t="Include" />
+              <e p="clndr.css" t="Include" />
+              <e p="jqvmap.css" t="Include" />
+              <e p="nav.css" t="Include" />
+              <e p="style.css" t="Include" />
+            </e>
+            <e p="images" t="Include">
+              <e p="ar2.png" t="Include" />
+              <e p="arrows.png" t="Include" />
+              <e p="avatar.jpg" t="Include" />
+              <e p="avatar1.jpg" t="Include" />
+              <e p="avatar2.jpg" t="Include" />
+              <e p="img-sprite.png" t="Include" />
+              <e p="into.png" t="Include" />
+              <e p="into1.png" t="Include" />
+              <e p="logo.png" t="Include" />
+              <e p="pp.jpg" t="Include" />
+              <e p="pp0.jpg" t="Include" />
+              <e p="pp01.jpg" t="Include" />
+              <e p="settings.png" t="Include" />
+              <e p="tick-mark.png" t="Include" />
+            </e>
+            <e p="js" t="Include">
+              <e p="Chart1.js" t="Include" />
+              <e p="clndr.js" t="Include" />
+              <e p="easyResponsiveTabs.js" t="Include" />
+              <e p="jquery.easydropdown.js" t="Include" />
+              <e p="jquery.min.js" t="Include" />
+              <e p="jquery.nicescroll.js" t="Include" />
+              <e p="jquery.vmap.js" t="Include" />
+              <e p="jquery.vmap.sampledata.js" t="Include" />
+              <e p="jquery.vmap.world.js" t="Include" />
+              <e p="main.js" t="Include" />
+              <e p="moment-2.2.1.js" t="Include" />
+              <e p="site.js" t="Include" />
+              <e p="underscore-min.js" t="Include" />
+            </e>
+          </e>
+          <e p="css" t="Include">
+            <e p="bootstrap.css" t="Include" />
+            <e p="css_slider.css" t="Include" />
+            <e p="font-awesome.min.css" t="Include" />
+            <e p="style.css" t="Include" />
+          </e>
+          <e p="fonts" t="Include">
+            <e p="fontawesome-webfont.eot" t="Include" />
+            <e p="fontawesome-webfont.svg" t="Include" />
+            <e p="fontawesome-webfont.ttf" t="Include" />
+            <e p="fontawesome-webfont.woff" t="Include" />
+            <e p="fontawesome-webfont.woff2" t="Include" />
+            <e p="FontAwesome.otf" t="Include" />
+          </e>
+          <e p="form_login" t="Include">
+            <e p="css" t="Include">
+              <e p="main.css" t="Include" />
+              <e p="util.css" t="Include" />
+            </e>
+            <e p="fonts" t="Include">
+              <e p="font-awesome-4.7.0" t="Include">
+                <e p="css" t="Include">
+                  <e p="font-awesome.css" t="Include" />
+                  <e p="font-awesome.min.css" t="Include" />
+                </e>
+                <e p="fonts" t="Include">
+                  <e p="fontawesome-webfont.eot" t="Include" />
+                  <e p="fontawesome-webfont.svg" t="Include" />
+                  <e p="fontawesome-webfont.ttf" t="Include" />
+                  <e p="fontawesome-webfont.woff" t="Include" />
+                  <e p="fontawesome-webfont.woff2" t="Include" />
+                  <e p="FontAwesome.otf" t="Include" />
+                </e>
+                <e p="HELP-US-OUT.txt" t="Include" />
+                <e p="less" t="Include">
+                  <e p="animated.less" t="Include" />
+                  <e p="bordered-pulled.less" t="Include" />
+                  <e p="core.less" t="Include" />
+                  <e p="fixed-width.less" t="Include" />
+                  <e p="font-awesome.less" t="Include" />
+                  <e p="icons.less" t="Include" />
+                  <e p="larger.less" t="Include" />
+                  <e p="list.less" t="Include" />
+                  <e p="mixins.less" t="Include" />
+                  <e p="path.less" t="Include" />
+                  <e p="rotated-flipped.less" t="Include" />
+                  <e p="screen-reader.less" t="Include" />
+                  <e p="stacked.less" t="Include" />
+                  <e p="variables.less" t="Include" />
+                </e>
+                <e p="scss" t="Include">
+                  <e p="_animated.scss" t="Include" />
+                  <e p="_bordered-pulled.scss" t="Include" />
+                  <e p="_core.scss" t="Include" />
+                  <e p="_fixed-width.scss" t="Include" />
+                  <e p="_icons.scss" t="Include" />
+                  <e p="_larger.scss" t="Include" />
+                  <e p="_list.scss" t="Include" />
+                  <e p="_mixins.scss" t="Include" />
+                  <e p="_path.scss" t="Include" />
+                  <e p="_rotated-flipped.scss" t="Include" />
+                  <e p="_screen-reader.scss" t="Include" />
+                  <e p="_stacked.scss" t="Include" />
+                  <e p="_variables.scss" t="Include" />
+                  <e p="font-awesome.scss" t="Include" />
+                </e>
+              </e>
+              <e p="iconic" t="Include">
+                <e p="css" t="Include">
+                  <e p="material-design-iconic-font.css" t="Include" />
+                  <e p="material-design-iconic-font.min.css" t="Include" />
+                </e>
+                <e p="fonts" t="Include">
+                  <e p="Material-Design-Iconic-Font.eot" t="Include" />
+                  <e p="Material-Design-Iconic-Font.svg" t="Include" />
+                  <e p="Material-Design-Iconic-Font.ttf" t="Include" />
+                  <e p="Material-Design-Iconic-Font.woff" t="Include" />
+                  <e p="Material-Design-Iconic-Font.woff2" t="Include" />
+                </e>
+              </e>
+              <e p="Linearicons-Free-v1.0.0" t="Include">
+                <e p="icon-font.min.css" t="Include" />
+                <e p="WebFont" t="Include">
+                  <e p="Linearicons-Free.eot" t="Include" />
+                  <e p="Linearicons-Free.svg" t="Include" />
+                  <e p="Linearicons-Free.ttf" t="Include" />
+                  <e p="Linearicons-Free.woff" t="Include" />
+                  <e p="Linearicons-Free.woff2" t="Include" />
+                </e>
+              </e>
+              <e p="poppins" t="Include">
+                <e p="Poppins-Black.ttf" t="Include" />
+                <e p="Poppins-BlackItalic.ttf" t="Include" />
+                <e p="Poppins-Bold.ttf" t="Include" />
+                <e p="Poppins-BoldItalic.ttf" t="Include" />
+                <e p="Poppins-ExtraBold.ttf" t="Include" />
+                <e p="Poppins-ExtraBoldItalic.ttf" t="Include" />
+                <e p="Poppins-ExtraLight.ttf" t="Include" />
+                <e p="Poppins-ExtraLightItalic.ttf" t="Include" />
+                <e p="Poppins-Italic.ttf" t="Include" />
+                <e p="Poppins-Light.ttf" t="Include" />
+                <e p="Poppins-LightItalic.ttf" t="Include" />
+                <e p="Poppins-Medium.ttf" t="Include" />
+                <e p="Poppins-MediumItalic.ttf" t="Include" />
+                <e p="Poppins-Regular.ttf" t="Include" />
+                <e p="Poppins-SemiBold.ttf" t="Include" />
+                <e p="Poppins-SemiBoldItalic.ttf" t="Include" />
+                <e p="Poppins-Thin.ttf" t="Include" />
+                <e p="Poppins-ThinItalic.ttf" t="Include" />
+              </e>
+              <e p="ubuntu" t="Include">
+                <e p="Ubuntu-Bold.ttf" t="Include" />
+                <e p="Ubuntu-BoldItalic.ttf" t="Include" />
+                <e p="Ubuntu-Italic.ttf" t="Include" />
+                <e p="Ubuntu-Light.ttf" t="Include" />
+                <e p="Ubuntu-LightItalic.ttf" t="Include" />
+                <e p="Ubuntu-Medium.ttf" t="Include" />
+                <e p="Ubuntu-MediumItalic.ttf" t="Include" />
+                <e p="Ubuntu-Regular.ttf" t="Include" />
+                <e p="UFL.txt" t="Include" />
+              </e>
+            </e>
+            <e p="images" t="Include">
+              <e p="bg-01.jpg" t="Include" />
+              <e p="icons" t="Include">
+                <e p="favicon.ico" t="Include" />
+              </e>
+            </e>
+            <e p="js" t="Include">
+              <e p="main.js" t="Include" />
+            </e>
+            <e p="vendor" t="Include">
+              <e p="animate" t="Include">
+                <e p="animate.css" t="Include" />
+              </e>
+              <e p="animsition" t="Include">
+                <e p="css" t="Include">
+                  <e p="animsition.css" t="Include" />
+                  <e p="animsition.min.css" t="Include" />
+                </e>
+                <e p="js" t="Include">
+                  <e p="animsition.js" t="Include" />
+                  <e p="animsition.min.js" t="Include" />
+                </e>
+              </e>
+              <e p="bootstrap" t="Include">
+                <e p="css" t="Include">
+                  <e p="bootstrap-grid.css" t="Include" />
+                  <e p="bootstrap-grid.css.map" t="Include" />
+                  <e p="bootstrap-grid.min.css" t="Include" />
+                  <e p="bootstrap-grid.min.css.map" t="Include" />
+                  <e p="bootstrap-reboot.css" t="Include" />
+                  <e p="bootstrap-reboot.css.map" t="Include" />
+                  <e p="bootstrap-reboot.min.css" t="Include" />
+                  <e p="bootstrap-reboot.min.css.map" t="Include" />
+                  <e p="bootstrap.css" t="Include" />
+                  <e p="bootstrap.css.map" t="Include" />
+                  <e p="bootstrap.min.css" t="Include" />
+                  <e p="bootstrap.min.css.map" t="Include" />
+                </e>
+                <e p="js" t="Include">
+                  <e p="bootstrap.js" t="Include" />
+                  <e p="bootstrap.min.js" t="Include" />
+                  <e p="popper.js" t="Include" />
+                  <e p="popper.min.js" t="Include" />
+                  <e p="tooltip.js" t="Include" />
+                </e>
+              </e>
+              <e p="countdowntime" t="Include">
+                <e p="countdowntime.js" t="Include" />
+              </e>
+              <e p="css-hamburgers" t="Include">
+                <e p="hamburgers.css" t="Include" />
+                <e p="hamburgers.min.css" t="Include" />
+              </e>
+              <e p="daterangepicker" t="Include">
+                <e p="daterangepicker.css" t="Include" />
+                <e p="daterangepicker.js" t="Include" />
+                <e p="moment.js" t="Include" />
+                <e p="moment.min.js" t="Include" />
+              </e>
+              <e p="jquery" t="Include">
+                <e p="jquery-3.2.1.min.js" t="Include" />
+              </e>
+              <e p="perfect-scrollbar" t="Include">
+                <e p="perfect-scrollbar.css" t="Include" />
+                <e p="perfect-scrollbar.min.js" t="Include" />
+              </e>
+              <e p="select2" t="Include">
+                <e p="select2.css" t="Include" />
+                <e p="select2.js" t="Include" />
+                <e p="select2.min.css" t="Include" />
+                <e p="select2.min.js" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="images" t="Include">
+            <e p="about.jpg" t="Include" />
+            <e p="banner1.jpg" t="Include" />
+            <e p="banner2.jpg" t="Include" />
+            <e p="banner3.jpg" t="Include" />
+            <e p="banner4.jpg" t="Include" />
+            <e p="china.jpg" t="Include" />
+            <e p="choose.jpg" t="Include" />
+            <e p="japan.jpg" t="Include" />
+            <e p="malaysia.jpg" t="Include" />
+            <e p="p1.jpg" t="Include" />
+            <e p="p2.jpg" t="Include" />
+            <e p="p3.jpg" t="Include" />
+            <e p="p4.jpg" t="Include" />
+            <e p="singapore.jpg" t="Include" />
+            <e p="te1.jpg" t="Include" />
+            <e p="te2.jpg" t="Include" />
+            <e p="te3.jpg" t="Include" />
+            <e p="tour_images" t="Include">
+              <e p="BuonMeThuot.jpg" t="Include" />
+              <e p="china.jpg" t="Include" />
+              <e p="DaLat.jpg" t="Include" />
+              <e p="DaNang.jpg" t="Include" />
+              <e p="HanQuoc.jpg" t="Include" />
+              <e p="HaTien.jpg" t="Include" />
+              <e p="japan.jpg" t="Include" />
+              <e p="KhanhHoa.jpg" t="Include" />
+              <e p="malaysia.jpg" t="Include" />
+              <e p="NhaTrang.jpg" t="Include" />
+              <e p="PhanThiet.jpg" t="Include" />
+              <e p="PhuQuoc.jpg" t="Include" />
+              <e p="QuyNhon.jpg" t="Include" />
+              <e p="singapore.jpg" t="Include" />
+              <e p="ThaiLan.jpg" t="Include" />
+              <e p="VinhHaLong.jpg" t="Include" />
+              <e p="VungTau.jpg" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="TourCore.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
