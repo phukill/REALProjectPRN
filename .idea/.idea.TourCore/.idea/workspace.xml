@@ -31,25 +31,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86c75ac9-6bea-4533-8172-a0d26578e0c3" name="Default Changelist" comment="Phu 4:16pm 20/11/2020">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TourCore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TourCore/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/ScaffoldingReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/ScaffoldingReadMe.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.Views.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.Views.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.Views.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.Views.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="86c75ac9-6bea-4533-8172-a0d26578e0c3" name="Default Changelist" comment="okur 4:43" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +136,7 @@
       <workItem from="1605751141567" duration="13483000" />
       <workItem from="1605860785597" duration="107000" />
       <workItem from="1605860944793" duration="287000" />
-      <workItem from="1605864348785" duration="906000" />
+      <workItem from="1605864348785" duration="1217000" />
     </task>
     <task id="LOCAL-00001" summary="Phu 4:16pm 20/11/2020">
       <created>1605863816568</created>
@@ -163,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605863816568</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="okur 4:43">
+      <created>1605865410068</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605865410068</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +165,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="phuPRN" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -188,28 +189,29 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Phu 4:16pm 20/11/2020" />
-    <option name="LAST_COMMIT_MESSAGE" value="Phu 4:16pm 20/11/2020" />
+    <MESSAGE value="okur 4:43" />
+    <option name="LAST_COMMIT_MESSAGE" value="okur 4:43" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="671" height="195" key="GridCell.Tab.0.bottom" timestamp="1605864234966">
+    <state width="671" height="195" key="GridCell.Tab.0.bottom" timestamp="1605865307468">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="671" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605864234966" />
+    <state width="671" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605865307468" />
     <state width="1493" height="304" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605771647018" />
-    <state width="671" height="195" key="GridCell.Tab.0.center" timestamp="1605864234966">
+    <state width="671" height="195" key="GridCell.Tab.0.center" timestamp="1605865307468">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="671" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605864234966" />
+    <state width="671" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605865307468" />
     <state width="1493" height="304" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605771647017" />
-    <state width="671" height="195" key="GridCell.Tab.0.left" timestamp="1605864234965">
+    <state width="671" height="195" key="GridCell.Tab.0.left" timestamp="1605865307468">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="671" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605864234965" />
+    <state width="671" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605865307468" />
     <state width="1493" height="304" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605771647017" />
-    <state width="671" height="195" key="GridCell.Tab.0.right" timestamp="1605864234966">
+    <state width="671" height="195" key="GridCell.Tab.0.right" timestamp="1605865307468">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="671" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605864234966" />
+    <state width="671" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605865307468" />
     <state width="1493" height="304" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605771647018" />
     <state width="1493" height="304" key="GridCell.Tab.1.bottom" timestamp="1605771647018">
       <screen x="0" y="0" width="1536" height="864" />
@@ -288,10 +290,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="93" y="93" width="1350" height="678" key="VCS.FileHistoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1605760181978" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605863843614">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605865420647">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605863843614" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605865420647" />
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1605756729799">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
