@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School\\Fall-2020\\PRN292\\project\\TourCore\\TourCore\\TourCore\\TourCore\\TourCore.csproj": {}
+    "C:\\Users\\Phu Cong\\Desktop\\SE-5th-Stuff\\PRN292\\REALProjectPRN\\TourCore\\TourCore.csproj": {}
   },
   "projects": {
-    "D:\\School\\Fall-2020\\PRN292\\project\\TourCore\\TourCore\\TourCore\\TourCore\\TourCore.csproj": {
+    "C:\\Users\\Phu Cong\\Desktop\\SE-5th-Stuff\\PRN292\\REALProjectPRN\\TourCore\\TourCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School\\Fall-2020\\PRN292\\project\\TourCore\\TourCore\\TourCore\\TourCore\\TourCore.csproj",
+        "projectUniqueName": "C:\\Users\\Phu Cong\\Desktop\\SE-5th-Stuff\\PRN292\\REALProjectPRN\\TourCore\\TourCore.csproj",
         "projectName": "TourCore",
-        "projectPath": "D:\\School\\Fall-2020\\PRN292\\project\\TourCore\\TourCore\\TourCore\\TourCore\\TourCore.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\School\\Fall-2020\\PRN292\\project\\TourCore\\TourCore\\TourCore\\TourCore\\obj\\",
+        "projectPath": "C:\\Users\\Phu Cong\\Desktop\\SE-5th-Stuff\\PRN292\\REALProjectPRN\\TourCore\\TourCore.csproj",
+        "packagesPath": "C:\\Users\\Phu Cong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Phu Cong\\Desktop\\SE-5th-Stuff\\PRN292\\REALProjectPRN\\TourCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Phu Cong\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -101,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

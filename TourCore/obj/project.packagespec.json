@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\School\\Fall-2020\\PRN292\\project\\TourCore\\TourCore\\TourCore\\TourCore\\TourCore.csproj",
+    "projectUniqueName": "C:\\Users\\Phu Cong\\Desktop\\SE-5th-Stuff\\PRN292\\REALProjectPRN\\TourCore\\TourCore.csproj",
     "projectName": "TourCore",
-    "projectPath": "D:\\School\\Fall-2020\\PRN292\\project\\TourCore\\TourCore\\TourCore\\TourCore\\TourCore.csproj",
-    "outputPath": "D:\\School\\Fall-2020\\PRN292\\project\\TourCore\\TourCore\\TourCore\\TourCore\\obj\\",
+    "projectPath": "C:\\Users\\Phu Cong\\Desktop\\SE-5th-Stuff\\PRN292\\REALProjectPRN\\TourCore\\TourCore.csproj",
+    "outputPath": "C:\\Users\\Phu Cong\\Desktop\\SE-5th-Stuff\\PRN292\\REALProjectPRN\\TourCore\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
@@ -90,7 +90,7 @@
           "privateAssets": "all"
         }
       },
-      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
     }
   }
 }

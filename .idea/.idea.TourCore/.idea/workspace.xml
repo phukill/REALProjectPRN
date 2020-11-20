@@ -26,105 +26,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86c75ac9-6bea-4533-8172-a0d26578e0c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TourCore/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TourCore/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TourCore/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TourCore/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TourCore/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TourCore/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TourCore/Views/Customer/Register.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/System.Text.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Customer/Register.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TourCore/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TourCore/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TourCore/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TourCore/config/applicationhost.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TourCore/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TourCore/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TourCore/v16/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/TourCore/v16/Server/sqlite3/storage.ide" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TourCore/v16/Server/sqlite3/storage.ide-shm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/TourCore/v16/Server/sqlite3/storage.ide-wal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/Controllers/AdminController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/Controllers/AdminController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/Controllers/BookingTourController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/Controllers/BookingTourController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/Controllers/ContractController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/Controllers/ContractController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/Models/Commands/BookingTourCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/Models/Commands/BookingTourCommand.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/Models/Db/Customer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/Models/Db/Customer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/Models/ViewModels/ContractDetailViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/Models/ViewModels/ContractDetailViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/Services/BookingService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/Services/BookingService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/Services/TravelService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/Services/TravelService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/TourCore.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/TourCore.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/TourCore.csproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/TourCore.csproj.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/Views/Admin/AllStaff.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/Views/Admin/AllStaff.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/Views/Admin/Login.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/Views/Admin/Login.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/Views/Admin/ShowAllTour.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/Views/Admin/ShowAllTour.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/Views/Admin/Travel.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/Views/Admin/Travel.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/Views/BookingTour/BookingTour.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/Views/BookingTour/BookingTour.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/Views/Customer/Login.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/Views/Customer/Login.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/Views/Home/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/Views/Home/Login.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/Views/Home/Login.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/Views/Home/Register.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/Views/Home/Register.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.Views.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.Views.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/TourCore.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/AddStaff.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/AddStaff.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/AllStaff.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/AllStaff.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/EditTour.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/EditTour.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/Index.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/InsertTour.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/InsertTour.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/Login.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/Login.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/QuantitesPartial.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/QuantitesPartial.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/QuantityMember.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/QuantityMember.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/ShowAllTour.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/ShowAllTour.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/Travel.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Admin/Travel.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/BookingTour/BookingTour.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/BookingTour/BookingTour.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Customer/Login.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Customer/Login.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Admin.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Admin.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Login.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Login.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/News.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/News.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Register.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Home/Register.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Count/Default.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Count/Default.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Menu/Default.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Menu/Default.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Tour/Default.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/Tour/Default.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutAdmin.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutAdmin.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutTour.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutTour.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutTourDetail.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_LayoutTourDetail.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Tour/Domestic.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Tour/Domestic.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Tour/FindTour.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Tour/FindTour.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Tour/FindTourPartial.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Tour/FindTourPartial.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Tour/National.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Tour/National.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Tour/TourDetail.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/Razor/Views/Tour/TourDetail.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.RazorCoreGenerate.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.RazorCoreGenerate.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.Views.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TourCore/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TourCore/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TourCore/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TourCore/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TourCore/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TourCore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TourCore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TourCore/ScaffoldingReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/ScaffoldingReadMe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/Debug/netcoreapp3.1/TourCore.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TourCore/obj/TourCore.csproj.nuget.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/TourCore/obj/TourCore.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/TourCore.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TourCore/obj/TourCore.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/TourCore.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TourCore/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TourCore/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TourCore/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TourCore/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +46,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/AD61CA47-F8B7-4CC6-93A0-BA44CC73B5C7/1E0/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
@@ -151,7 +65,7 @@
         <option value="$PROJECT_DIR$/TourCore/Controllers/BookingTourController.cs" />
         <option value="$PROJECT_DIR$/TourCore/Controllers/ContractController.cs" />
         <option value="$PROJECT_DIR$/TourCore/Controllers/CustomerController.cs" />
-        <option value="C:/Program Files/dotnet/sdk/3.1.402/Microsoft.Common.CurrentVersion.targets" />
+        <option value="$PROJECT_DIR$/../../../../../../Program Files/dotnet/sdk/3.1.402/Microsoft.Common.CurrentVersion.targets" />
         <option value="$PROJECT_DIR$/TourCore/appsettings.json" />
         <option value="$PROJECT_DIR$/TourCore/appsettings.Development.json" />
         <option value="$PROJECT_DIR$/TourCore/Startup.cs" />
@@ -162,6 +76,7 @@
         <option value="$PROJECT_DIR$/TourCore/Views/Customer/Register.cshtml" />
         <option value="$PROJECT_DIR$/TourCore/Views/Home/Register.cshtml" />
         <option value="$PROJECT_DIR$/TourCore/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/TourCore/ScaffoldingReadMe.txt" />
       </list>
     </option>
   </component>
@@ -225,6 +140,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605751124126</updated>
       <workItem from="1605751141567" duration="13483000" />
+      <workItem from="1605860785597" duration="107000" />
+      <workItem from="1605860944793" duration="287000" />
     </task>
     <servers />
   </component>
@@ -243,6 +160,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="false" />

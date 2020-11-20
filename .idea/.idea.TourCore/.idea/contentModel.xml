@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Admin\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_TourCore.749598630.00" t="ExcludeRecursive" />
-    <e p="D:\School\Fall-2020\PRN292\project\TourCore\TourCore\TourCore" t="IncludeFlat">
+    <e p="C:\Users\Phu Cong\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Phu Cong\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_TourCore.-388490619.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Phu Cong\Desktop\SE-5th-Stuff\PRN292\REALProjectPRN" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="TourCore" t="IncludeRecursive">
         <e p="appsettings.Development.json" t="Include" />
