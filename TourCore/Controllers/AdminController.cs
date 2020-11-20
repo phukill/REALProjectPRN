@@ -169,7 +169,7 @@ namespace TourCore.Controllers
                 HttpContext.Session.SetString("Admin",strUsername);
                 return RedirectToAction("Index","Admin");
             }
-            ViewBag.Error= "Đăng nhập không thành công";
+            ViewBag.Error= "Login fail!";
             return View();
         }
         public IActionResult SeeContractDetail(int? id)
@@ -182,7 +182,5 @@ namespace TourCore.Controllers
             this._travelService.DeleteContractDetail(id);
             return RedirectToAction("Travel","Admin");
         }
-
-
     }
 }
